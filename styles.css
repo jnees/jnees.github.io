@@ -1,0 +1,51 @@
+body {
+    background-color: #02014F;
+    color: #FFFFFF;
+}
+
+.container-fluid {
+    padding: 0 10% 0 3%;
+}
+
+#contact {
+    margin-top: 2em;
+}
+
+#rule {
+    height: 2.5px;
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+    opacity: 1;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FE7BE5;
+}
+
+.inner {
+    margin: 1em;
+}
+
+#about {
+    display: block-inline;
+    float: left;
+    max-width: 70%;
+}
+
+img {
+    max-height: 300px;
+    border-radius: 7%;
+    margin: 1em 1em 1em 2em;
+    display: block-inline;
+    float: left;
+    border: 2px solid white;
+}
