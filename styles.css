@@ -31,6 +31,10 @@ a:hover {
     color: #FE7BE5;
 }
 
+p {
+    font-weight: 300;
+}
+
 .inner {
     margin: 1em;
 }
