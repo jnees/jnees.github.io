@@ -52,4 +52,6 @@ img {
     display: block-inline;
     float: left;
     border: 2px solid white;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
