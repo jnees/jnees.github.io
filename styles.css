@@ -47,11 +47,9 @@ p {
 
 img {
     max-height: 300px;
-    border-radius: 7%;
+    border-radius: 50%;
     margin: 1em 1em 1em 2em;
     display: block-inline;
     float: left;
     border: 2px solid white;
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
 }
